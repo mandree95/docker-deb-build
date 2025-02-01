@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM debian:trixie
 
 # ------------------- #
 # Docker image labels #
